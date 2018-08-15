@@ -22,7 +22,7 @@
     <div class="col-sm"></div>
     <div class="col-sm">
     <form class="form-signin" method="post" action="index.php">
-      <img class="mb-4" src="../image/bg/discount.svg" alt="" width="150" height="150">
+      <img class="mb-4" src="image/bg/discount.svg" alt="" width="150" height="150">
       <h1 class="h2 mb-3 font-weight-normal">Login</h1>
       <label for="inputEmail" class="sr-only">Username</label>
       <input type="username" name="username" id="inputEmail" class="form-control" placeholder="Username" required autofocus>
