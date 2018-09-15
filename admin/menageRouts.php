@@ -13,6 +13,12 @@ if (isset($_SESSION['login'])) {
 		case 'ex':
 			include "cam.php";
 			break;
+		case 'ma':
+			include "ttuser.php";
+			break;//
+		case 'mamcp':
+			include "lod.php";
+			break;
 		default:
 			include "qrGen.php";
 			break;

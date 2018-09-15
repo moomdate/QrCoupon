@@ -16,6 +16,10 @@
       <li class="nav-item">
         <a class="nav-link" href="?ad=ex">แลก</a>
       </li>
+      
+      <li class="nav-item">
+        <a class="nav-link" href="?ad=ma">จัดการแต้มผู้ใช้งาน</a>
+      </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
 
