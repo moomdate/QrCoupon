@@ -96,14 +96,7 @@ body, html {
             </div>
 
 
-          <label class="control-label">User</label>
-            <div class="input-group "><span class="input-group-btn">
-              <button type="button" class="btn btn-danger">-</button></span>
-              <input id="colorful" class="form-control" value="0" type="number" value="1" min="1" max="100" style="text-align: center;" >
-              <span class="input-group-btn">
-                <button type="button" class="btn btn-success">+</button></span>
-              </div>
-            </div>
+         
           </fieldset>
         </form>
       </div>
